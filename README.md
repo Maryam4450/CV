@@ -46,9 +46,7 @@ With a solid foundation in mathematical modeling and computational problem-solvi
 ---
 
 ## 🔹 Certifications & Achievements  
-🏅 **Data Science Internship (Planned for Summer 2025)**  
-🏆 **Finalist - Data Visualization Competition (Ongoing)**  
-📜 **[Your Certification Name]**  
+
 
 ---
 
