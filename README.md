@@ -59,4 +59,3 @@ With a solid foundation in mathematical modeling and computational problem-solvi
 
 ---
 
-### ⭐ Feel free to check out my repositories and projects!  
