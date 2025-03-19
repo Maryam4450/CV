@@ -1,8 +1,8 @@
 # Maryam - Data Science Enthusiast  
 
 📍 **Location:** [Lahore, Pakistan]  
-📧 **Email:** [maryam.104455@gmail.com]  
-🔗 **GitHub:** [github.com/yourusername](https://github.com/Maryam4450)  
+📧 **Email:**[maryam.104455@gmail.com 
+🔗 **GitHub:** [github.com/Maryam4450](https://github.com/Maryam4450)  
 
 ---
 
