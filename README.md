@@ -7,15 +7,16 @@
 ---
 
 ## 🔹 About Me  
-I am a second-year BS Data Science student with a strong portfolio in Python, C++, Linear Algebra, Assembly Language, and Probability & Statistics. Passionate about data analytics, databases, and real-world applications, I continuously refine my expertise in database management, statistical modeling, and algorithm development.
+I am a second-year **BS Data Science** student with a strong foundation in **Python, C++, SQL, Linear Algebra, Assembly Language, and Probability & Statistics**. Passionate about **data analytics, databases, and problem-solving**, I am currently enhancing my **SQL and Power BI** skills by working on real-world data projects.  
 
-With a solid foundation in mathematical modeling and computational problem-solving, I am eager to apply my skills to complex analytical challenges while enhancing my communication and technical abilities.  
+A self-motivated learner, I thrive on **continuous learning and hands-on experience**, seeking to apply my **analytical and technical abilities** to solve complex challenges.  
 
 ---
 
 ## 🔹 Skills  
 💡 **Programming:** Python, C++, SQL, MASM (Assembly)  
 📊 **Data Analytics:** Pandas, NumPy, Power BI  
+🧠 **Artificial Intelligence**
 📂 **Databases:** SQL, Database Design  
 ⚙️ **Version Control:** Git, GitHub  
 🔌 **Hardware & Logic Design:** Digital Logic Design (DLD)  
@@ -45,15 +46,17 @@ With a solid foundation in mathematical modeling and computational problem-solvi
 
 ---
 
-## 🔹 Certifications & Achievements  
+## 🔹 Learning & Achievements  
 
-
+- Earned **HackerRank SQL & Python badges**  
+- Solved **80+ problems** on HackerRank and LeetCode  
+- Practicing **Data Structures & Algorithms (DSA) in C++ and Python** for problem-solving  
+- Enhancing **Power BI skills** by working on real-world data visualization projects 
+  
 ---
 
-## 🔹 Contact Me  
-📧 Email: maryam.104455@gmail.com 
-🌐 GitHub: [github.com/yourusername](https://github.com/Maryam4450)  
+
  
 
----
+
 
