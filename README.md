@@ -1,4 +1,4 @@
-# Maryam - Data Science Enthusiast  
+# Maryam Majid - Data Science Enthusiast  
 
 📍 **Location:** Lahore, Pakistan  <br>
 📧 **Email:** maryam.104455@gmail.com <br>
