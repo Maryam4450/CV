@@ -7,7 +7,7 @@
 ---
 
 ## 🔹 About Me  
-I am a second-year **BS Data Science** student with a strong foundation in **Python, C++, SQL, Linear Algebra, Assembly Language, and Probability & Statistics**. Passionate about **data analytics, databases, and problem-solving**, I am currently enhancing my **SQL and Power BI** skills by working on real-world data projects.  
+I am a second-year **BS Data Science** student with a strong foundation in **Python, C++, SQL, Linear Algebra, Assembly Language, and Probability & Statistics**. Passionate about **data analytics, databases, and problem-solving**, I am currently enhancing my **SQL and Power BI** skills by working on real-world data projects. 
 
 A self-motivated learner, I thrive on **continuous learning and hands-on experience**, seeking to apply my **analytical and technical abilities** to solve complex challenges.  
 
