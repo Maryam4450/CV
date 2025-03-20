@@ -49,7 +49,8 @@ A self-motivated learner, I thrive on **continuous learning and hands-on experie
 ## 🔹 Learning & Achievements  
 
 - Earned **HackerRank SQL & Python badges**  
-- Solved **80+ problems** on HackerRank and LeetCode  
+- Solved **80+ problems** on HackerRank and LeetCode
+- Intro to SQL course from kaggle 
 - Practicing **Data Structures & Algorithms (DSA) in C++ and Python** for problem-solving  
 - Enhancing **Power BI skills** by working on real-world data visualization projects 
   
